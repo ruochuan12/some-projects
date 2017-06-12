@@ -1,0 +1,8 @@
+class Timer {
+    constructor(){
+
+    }
+    time(){
+        
+    }
+}
